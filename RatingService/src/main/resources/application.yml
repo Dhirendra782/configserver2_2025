@@ -14,7 +14,7 @@ spring:
     hibernate:
       ddl-auto: update
 
-#Config clients configuractions
+#Config clients configuractionsssss
   config:
     import: optional:configserver:http://localhost:8085
 
